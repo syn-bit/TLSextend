@@ -22,7 +22,7 @@
 -- Version  1.0
 -- Source   https://github.com/syn-bit/TLSextend
 --
--- Generated from: https://github.com/gaddman/wireshark-TLSextend
+-- Generated from: https://github.com/gaddman/wireshark-TCPextend
 
 -- declare some fields to be read
 local f_tcp_stream              = Field.new("tcp.stream")
